@@ -1,0 +1,11 @@
+station_id,station_name,lat,lon,station_capacity,is_interchange,connectivity_score
+1,Muenchen_Hauptbahnhof,48.1402,11.5586,5634,1,0.453
+2,Marienplatz,48.1374,11.5755,1756,1,0.364
+3,Ostbahnhof,48.1316,11.581,3752,1,0.676
+4,Westbahnhof,48.1889,11.556,5815,1,0.723
+5,Sendlinger_Tor,48.1321,11.5739,4694,0,0.723
+6,Karlsplatz_Stachus,48.1447,11.5581,4688,0,0.969
+7,Isartor,48.1351,11.575,844,0,0.285
+8,Pasing,48.1688,11.4627,2353,0,0.725
+9,Muenchner_Freiheit,48.1621,11.606,5011,0,0.898
+10,Odeonsplatz,48.1447,11.576,5816,0,0.779

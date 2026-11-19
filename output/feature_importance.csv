@@ -1,0 +1,16 @@
+,feature,importance_gain,importance_split
+0,passenger_count_trailing_4_weeks_same_hour_average,881355857478.0,3737
+1,passenger_count_lag_168h,55195711197.0,2094
+2,is_holiday,5639793332.0,470
+3,station_id,5107184215.0,973
+4,temp_C_prediction,4497288584.0,1980
+5,hour,4282091402.0,1559
+6,station_capacity,3470106540.0,612
+7,month,3432415855.0,1701
+8,traffic_index_closest_lag_168h,2829791772.0,1823
+9,day_of_week,2711692238.0,1288
+10,is_weekend,1112912257.0,235
+11,connectivity_score,953487378.0,333
+12,is_interchange,699542479.0,287
+13,precip_mm_prediction,630998440.0,784
+14,is_octoberfest,33196469.0,34

@@ -1,0 +1,2 @@
+rmse,baseline_rmse,n,missing_actuals,model,baseline,best_iteration
+272.10881457243534,319.8247812278624,417,3,LightGBM regression,passenger_count_trailing_4_weeks_same_hour_average,597

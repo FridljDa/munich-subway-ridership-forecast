@@ -1,0 +1,13 @@
+feature,mean_absolute_shap_contribution
+temp_C_prediction,11.428612353018131
+connectivity_score,11.925642786134734
+traffic_index_closest_lag_168h,12.351067184579527
+month,17.457591630307828
+is_weekend,24.56669006151536
+is_holiday,26.864903673970836
+passenger_count_lag_168h,34.9499509182602
+day_of_week,36.33756666869465
+station_capacity,42.31268065092843
+hour,87.81912172873112
+station_id,134.0331263268662
+passenger_count_trailing_4_weeks_same_hour_average,677.22973477058

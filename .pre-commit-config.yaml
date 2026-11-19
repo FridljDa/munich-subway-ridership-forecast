@@ -1,0 +1,26 @@
+repos:
+  - repo: local
+    hooks:
+      - id: ruff-check
+        name: ruff check
+        entry: uv run --group dev ruff check
+        language: system
+        types_or: [python, pyi]
+        pass_filenames: true
+      - id: ruff-format-check
+        name: ruff format check
+        entry: uv run --group dev ruff format --check
+        language: system
+        types_or: [python, pyi]
+        pass_filenames: true
+      - id: vulture
+        name: vulture dead code check
+        entry: uv run --group dev vulture
+        language: system
+        args:
+          - .
+          - --exclude
+          - .venv
+          - --min-confidence
+          - "100"
+        pass_filenames: false
